@@ -80,7 +80,7 @@ dragon-cursor-effect/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dragon-cursor-effect.git
+git clone https://github.com/ShakalBhau0001/dragon-cursor-effect.git
 cd dragon-cursor-effect
 ```
 
@@ -122,6 +122,12 @@ This project is built to:
 * Learn **mathematical motion in UI**
 * Build **creative frontend experiences**
 * Enhance **portfolio-level projects**
+
+---
+
+## 📸 Preview
+
+![Preview](assets/DCE-1.png)
 
 ---
 
