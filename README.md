@@ -14,7 +14,7 @@ dragon-cursor-effect/
 ├── index.html        # SVG structure and layout
 ├── styles.css        # Styling and visual effects
 ├── main.js           # Animation and cursor tracking logic
-├── LICENSE
+├── LICENSE           # MIT LICENSE
 └── README.md         # Project documentation
 ```
 
@@ -28,23 +28,17 @@ dragon-cursor-effect/
 * Body follows with smooth trailing motion
 * Creates a **snake-like / fluid animation effect**
 
----
-
 ### 🔗 Chain-Based Animation
 
 * Built using multiple connected segments
 * Each segment follows the previous one
 * Uses **trigonometry (atan2, sin, cos)** for realistic movement
 
----
-
 ### 🌈 Dynamic Visual Effects
 
 * Glowing neon-style dragon using `drop-shadow`
 * Continuous **color shifting (hue-rotate)**
 * Smooth animation rendering with `requestAnimationFrame`
-
----
 
 ### 🎯 Interactive Experience
 
@@ -117,6 +111,7 @@ in any modern browser.
 ## 🎯 Purpose of This Project
 
 This project is built to:
+
 * Practice **advanced JavaScript animation**
 * Understand **SVG manipulation**
 * Learn **mathematical motion in UI**
