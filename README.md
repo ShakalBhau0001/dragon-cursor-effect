@@ -11,11 +11,12 @@ This project creates a glowing, animated **dragon that smoothly follows the user
 ```bash
 dragon-cursor-effect/
 │
-├── index.html        # SVG structure and layout
-├── styles.css        # Styling and visual effects
-├── main.js           # Animation and cursor tracking logic
-├── LICENSE           # MIT LICENSE
-└── README.md         # Project documentation
+├── assets/                # Screenshots
+├── index.html             # SVG structure and layout
+├── styles.css             # Styling and visual effects
+├── main.js                # Animation and cursor tracking logic
+├── LICENSE                # MIT LICENSE
+└── README.md              # Project documentation
 ```
 
 ---
